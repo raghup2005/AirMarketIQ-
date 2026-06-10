@@ -1,0 +1,17 @@
+fastapi
+uvicorn[standard]
+sqlalchemy
+psycopg2-binary
+pydantic
+python-dotenv
+pandas
+numpy
+scikit-learn
+xgboost
+prophet
+streamlit
+plotly
+requests
+beautifulsoup4
+joblib
+alembic
