@@ -227,6 +227,6 @@ making it highly relevant for Data Science, Machine Learning, Business Analytics
 
 ## Author
 
-Ritwik
+Raghu 
 
 Built to explore the intersection of Machine Learning, Business Intelligence, and Airline Analytics.
